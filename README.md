@@ -1,1 +1,1 @@
-# eulerProblem
+# Euler Problem
